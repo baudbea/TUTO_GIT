@@ -1,2 +1,3 @@
 Ceci est le fichier 2
 Deuxième ligne fichier 2
+Troisième ligne fichier 2
